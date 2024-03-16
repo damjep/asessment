@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+table , tr , td, th{
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.table1 {
+  position: absolute;
+  left: 10em;
+  top: 5em;
+}
+
+.tab2 {
+  position: absolute;
+  top:40em;
+  left: 10em;
+}
